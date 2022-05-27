@@ -2,16 +2,18 @@
 ## Introduction to Machine Learning with Python
 ### A GUIDE FOR DATA SCIENTISTS
 
+![](https://images-na.ssl-images-amazon.com/images/I/51IXBmHSe1L._SX379_BO1,204,203,200_.jpg)
+
 Authors: Andreas C. Müller and Sarah Guido
 
-## Table of contents:
+## Table of contents
 
-1. Introduction
-  1.1. Jupyter Notebook
-  1.2. NumPy
-  1.3. SciPy
-  1.4. matplotlib
-  1.5. pandas
-  1.6. mglearn
-  1.7. Creating first application: Classifying Iris Species
-  1.8. Summary and Outlook
+### 1. Introduction:
+  - [x] Jupyter Notebook
+  - [x] NumPy
+  - [x] SciPy
+  - [x] matplotlib
+  - [x] pandas
+  - [x] mglearn
+  - [x] Creating first application: Classifying Iris Species
+  - [x] Summary and Outlook
