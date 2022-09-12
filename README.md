@@ -1,4 +1,5 @@
 # O-Reilly-ML-course
+![](https://mms.businesswire.com/media/20220803005170/en/738790/23/O%27Reilly_Logo_August_2019.jpg)
 ## Introduction to Machine Learning with Python
 ### A GUIDE FOR DATA SCIENTISTS
 
